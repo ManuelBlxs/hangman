@@ -1,0 +1,15 @@
+{
+    "name": "hangman",
+    "version": "1.0.0",
+    "engine": {
+      "node": "16.10.0"
+    },
+    "type": "module",
+    "main": "index.js",
+    "author": "Manuel Blas",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ManuelBlxs/hangman.git"
+    }
+  }
+  
